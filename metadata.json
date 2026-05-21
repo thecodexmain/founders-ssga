@@ -1,0 +1,6 @@
+{
+  "name": "PRIME MARKETPLACE",
+  "description": "The premium futuristic digital goods marketplace to buy, sell, trade, and discover digital assets securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
